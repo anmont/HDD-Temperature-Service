@@ -1,0 +1,7 @@
+C:\Users\anmont1\documents\visual studio 2010\Projects\HDD Temp Mon\HDD Temp Mon\bin\Release\HDD Temp Mon.exe
+C:\Users\anmont1\documents\visual studio 2010\Projects\HDD Temp Mon\HDD Temp Mon\bin\Release\HDD Temp Mon.pdb
+C:\Users\anmont1\documents\visual studio 2010\Projects\HDD Temp Mon\HDD Temp Mon\obj\x86\Release\HDD_Temp_Mon.Service1.resources
+C:\Users\anmont1\documents\visual studio 2010\Projects\HDD Temp Mon\HDD Temp Mon\obj\x86\Release\HDD Temp Mon.csproj.GenerateResource.Cache
+C:\Users\anmont1\documents\visual studio 2010\Projects\HDD Temp Mon\HDD Temp Mon\obj\x86\Release\HDD Temp Mon.exe
+C:\Users\anmont1\documents\visual studio 2010\Projects\HDD Temp Mon\HDD Temp Mon\obj\x86\Release\HDD Temp Mon.pdb
+C:\Users\anmont1\documents\visual studio 2010\Projects\HDD Temp Mon\HDD Temp Mon\obj\x86\Release\HDD_Temp_Mon.ProjectInstaller.resources
